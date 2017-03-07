@@ -1,6 +1,6 @@
 <?php
 
-namespace Url;
+namespace LojasKD\Url;
 
 class Shortener
 {
