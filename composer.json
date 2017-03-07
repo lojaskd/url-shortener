@@ -1,0 +1,23 @@
+{
+  "name": "lojaskd/url-shortener",
+  "type": "library",
+  "description": "This library is a pure PHP implementation to shortner url using google url api",
+  "keywords": [
+    "php",
+    "shortener",
+    "url"
+  ],
+  "homepage": "https://github.com/lojaskd/url-shortener/",
+  "authors": [],
+  "autoload": {
+    "psr-4": {
+      "LojasKD\\Url\\": "src/"
+    }
+  },
+  "license": "GNU",
+  "extra": {
+    "branch-alias": {
+      "dev-master": "master"
+    }
+  }
+}
